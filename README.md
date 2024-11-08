@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vineet-biradar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m vineet-biradar
+- 👀 coding-playing-movies
+- 🌱 2nd year cs engineering student
+- 💞️  learning c++
+- 📫 say hi-->> vineetbiradar001@gmail.com
 - 👉 reach me with instagram vineet_biradar_01
 
 <!---
