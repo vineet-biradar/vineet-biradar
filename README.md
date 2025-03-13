@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vineet-biradar
-- 👀 coding-playing-movies
+- 👀 coding-playing-watching movies
 - 🌱 2nd year cs engineering student
 - 💞️  learning c++
 - 📫 say hi-->> vineetbiradar001@gmail.com
